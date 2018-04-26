@@ -1,6 +1,6 @@
-# MailChimp
+# MailChimp Exercise
 
-This was developed using Eclipse version: Neon.1a Release (4.6.1), excuted against the Chrome browser, using java version 1.8.0_91.
+This was developed using Eclipse version: Neon.1a Release (4.6.1), executed against the Chrome browser, using java version 1.8.0_91.
 
 To run: 
 java -jar chimp.jar
@@ -14,6 +14,7 @@ Failure(s): 0
 Run Count: 1
 
 Notes: 
-- I wanted to use TestNG but kept it simple using Junit.
-- Need to use tab instead of comma delimination. There were commas in the descrition bio.
+- I wanted to use TestNG but kept it simple using Junit .
+- Need to use tab instead of comma delimitation. There were commas in the description bio.
 - Thought about using asserts but for this exercise I didn't.
+
