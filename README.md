@@ -13,6 +13,8 @@ INFO: Detected dialect: OSS
 Failure(s): 0
 Run Count: 1
 
+Output file located at C:\Temp\inputFile.csv
+
 Notes: 
 - I wanted to use TestNG but kept it simple using Junit .
 - Need to use tab instead of comma delimitation. There were commas in the description bio.
