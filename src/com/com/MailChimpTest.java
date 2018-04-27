@@ -25,7 +25,7 @@ String person, title, description;
 
 @Before
 public void setUp() throws Exception {
-	System.setProperty("webdriver.chrome.driver", "C://Drivers/chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver", "C://Drivers//chromedriver.exe");
 	options = new ChromeOptions();
 	options.setExperimentalOption("useAutomationExtension", false);
 	options.addArguments("--start-maximized");
