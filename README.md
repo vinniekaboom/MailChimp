@@ -4,8 +4,8 @@ This was developed using Eclipse version: Neon.1a Release (4.6.1), executed agai
 
 To run:
 
--C:\Drivers\chromedriver
--java -jar chimp.jar
+- C:\Drivers\chromedriver
+- java -jar chimp.jar
 
 Run output:
 
