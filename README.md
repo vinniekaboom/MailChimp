@@ -3,6 +3,7 @@
 This was developed using Eclipse version: Neon.1a Release (4.6.1), executed against the Chrome browser Version 65.0.3325.162 (Official Build) (64-bit), using Java version 1.8.0_91.
 
 To run:
+
 -C:\Drivers\chromedriver
 -java -jar chimp.jar
 
