@@ -9,7 +9,7 @@ import java.util.Iterator;
 
 public class FileCSV {
 	
-public static String fileLocation = "C:/Temp/inputFile.cvs"; 
+public static String fileLocation = "C:/Temp/inputFile.csv"; 
 
 public static void writeToCVS(ArrayList<String> array) {
 	
