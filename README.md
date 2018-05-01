@@ -16,7 +16,7 @@ INFO: Detected dialect: OSS
 Failure(s): 0
 Run Count: 1
 
-Output file located at C:\Temp\inputFile.csv
+Output file located at C:/MailChimp/results/bios.csv
 
 Notes:
 - I wanted to use TestNG but kept it simple using Junit .
