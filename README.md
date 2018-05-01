@@ -21,5 +21,5 @@ Output file located at C:/MailChimp/results/bios.csv
 Notes:
 - I wanted to use TestNG but kept it simple using Junit .
 - Need to use tab instead of comma delimitation. There were commas in the description bio.
-- Thought about using asserts but for this exercise I didn't.
+- Thought about using asserts but for this exercise I didn't..
 
