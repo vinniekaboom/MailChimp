@@ -4,7 +4,7 @@ This was developed using Eclipse version: Neon.1a Release (4.6.1), executed agai
 
 To run:
 
-- C:\Drivers\chromedriver
+- C://MailChimp//drivers//chromedriver.exe
 - java -jar chimp.jar
 
 Run output:
